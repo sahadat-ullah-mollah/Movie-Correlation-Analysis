@@ -5,7 +5,7 @@ This project explores relationships between key movie industry variables using P
 
 The dataset used is sourced from Kaggle and cleaned for analysis purposes.
 
-🔍 Python File? Check it out here: [Python Project File](https://github.com/Shihab412/Profit_Performance_Analysis_in_Excel/tree/main/Excel%20File)
+🔍 Python File? Check it out here: [Python Project File](https://github.com/sahadat-ullah-mollah/Movie-Correlation-Analysis/tree/main/Python%20File)
 
 ---
 
